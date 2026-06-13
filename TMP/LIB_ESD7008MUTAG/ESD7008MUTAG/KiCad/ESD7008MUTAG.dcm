@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESD7008MUTAG
+D 10V Clamp Ipp Tvs Diode Surface Mount 18-UDFN (5.5x1.5)
+K
+F http://www.onsemi.com/pub/Collateral/ESD7008-D.PDF
+$ENDCMP
+#
+#End Doc Library

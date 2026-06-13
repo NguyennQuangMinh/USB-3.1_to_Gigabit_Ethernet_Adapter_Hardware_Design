@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=ESD7008MUTAG
+PartCategory=TVS Diode (Bi-directional)
+PackageCategory=Other
+PinCount=21
+Version=6.1
+Released=2017-08-09 09:29:17
+Downloaded=2026-06-13 10:27:58
+3D=Y

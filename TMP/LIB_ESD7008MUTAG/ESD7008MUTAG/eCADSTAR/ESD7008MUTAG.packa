@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESD7008MUTAG"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-12-11-10:43:30)
+    (mountForm default
+        (footprintRef "ESD7008MUTAG")
+        (spec "System")
+    )
+)

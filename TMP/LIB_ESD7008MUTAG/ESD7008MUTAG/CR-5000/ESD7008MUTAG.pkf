@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ESD7008MUTAG"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ESD7008MUTAG")
+        (spec "default")
+    )
+)

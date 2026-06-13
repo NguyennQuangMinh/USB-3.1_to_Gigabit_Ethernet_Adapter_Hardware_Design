@@ -1,0 +1,18 @@
+.ESD7008MUTAG :1 ;10V Clamp Ipp Tvs Diode Surface Mount 18-UDFN (5.5x1.5)
+ESD7008MUTAG
+*STM D
+*NGS
+*PLB 1="I/O_1" 2="I/O_2" 3="GND_1" 4="I/O_3" 5="I/O_4" 6="GND_2" 7="I/O_5" 8="I/O_6" 9="GND_3" 10="I/O_7" 11="I/O_8" 12="N/C_1" 13="GND_4" 14="N/C_2" 15="GND_5" 16="N/C_3" 17="GND_6" 18="N/C_4" 19="N/C_5" 20="N/C_6" 21="N/C_7"
+*MXP 21
+*DFN ESD7008MUTAG
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (ESD7008MUTAG)
+~!Mouser Part Number (863-ESD7008MUTAG)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/ESD7008MUTAG?qs=Gud3nhECO%2Fs1qvAxYTTX5w%3D%3D)
+~!Arrow Part Number (ESD7008MUTAG)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/esd7008mutag/on-semiconductor?region=nac)
+~!Link Datasheet (http://www.onsemi.com/pub/Collateral/ESD7008-D.PDF)
+~!Height (0.55mm)
+~!3D_Model (ESD7008MUTAG)
+ESD7008MUTAG
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 

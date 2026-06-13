@@ -1,0 +1,44 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ESD7008MUTAG
+#/224664/2084323/2.50/21/2/TVS Diode (Bi-directional)
+DEF ESD7008MUTAG D 0 30 Y Y 1 F N
+F0 "D" 1050 300 50 H V L CNN
+F1 "ESD7008MUTAG" 1050 200 50 H V L CNN
+F2 "ESD7008MUTAG" 1050 100 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/ESD7008-D.PDF" 1050 0 50 H I L CNN
+F4 "10V Clamp Ipp Tvs Diode Surface Mount 18-UDFN (5.5x1.5)" 1050 -100 50 H I L CNN "Description"
+F5 "0.55" 1050 -200 50 H I L CNN "Height"
+F6 "onsemi" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "ESD7008MUTAG" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "863-ESD7008MUTAG" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/onsemi/ESD7008MUTAG?qs=Gud3nhECO%2Fs1qvAxYTTX5w%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "ESD7008MUTAG" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/esd7008mutag/on-semiconductor?region=nac" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X I/O_1 1 0 0 200 R 50 50 0 0 P
+X I/O_2 2 0 -100 200 R 50 50 0 0 P
+X GND_1 3 0 -200 200 R 50 50 0 0 P
+X I/O_3 4 0 -300 200 R 50 50 0 0 P
+X I/O_4 5 0 -400 200 R 50 50 0 0 P
+X GND_2 6 0 -500 200 R 50 50 0 0 P
+X I/O_5 7 0 -600 200 R 50 50 0 0 P
+X I/O_6 8 0 -700 200 R 50 50 0 0 P
+X GND_3 9 0 -800 200 R 50 50 0 0 P
+X I/O_7 10 0 -900 200 R 50 50 0 0 P
+X I/O_8 11 0 -1000 200 R 50 50 0 0 P
+X N/C_1 12 1200 0 200 L 50 50 0 0 P
+X GND_4 13 1200 -100 200 L 50 50 0 0 P
+X N/C_2 14 1200 -200 200 L 50 50 0 0 P
+X GND_5 15 1200 -300 200 L 50 50 0 0 P
+X N/C_3 16 1200 -400 200 L 50 50 0 0 P
+X GND_6 17 1200 -500 200 L 50 50 0 0 P
+X N/C_4 18 1200 -600 200 L 50 50 0 0 P
+X N/C_5 19 1200 -700 200 L 50 50 0 0 P
+X N/C_6 20 1200 -800 200 L 50 50 0 0 P
+X N/C_7 21 1200 -900 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -1100 200 -1100 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

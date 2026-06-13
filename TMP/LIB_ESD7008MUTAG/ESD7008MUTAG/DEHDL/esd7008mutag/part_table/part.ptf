@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESD7008MUTAG'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "ESD7008MUTAG" (!) = "", "ESD7008MUTAG", "Other", "863-ESD7008MUTAG", "https://www.mouser.co.uk/ProductDetail/onsemi/ESD7008MUTAG?qs=Gud3nhECO%2Fs1qvAxYTTX5w%3D%3D", "ESD7008MUTAG", "https://www.arrow.com/en/products/esd7008mutag/on-semiconductor?region=nac", "10V Clamp Ipp Tvs Diode Surface Mount 18-UDFN (5.5x1.5)", "http://www.onsemi.com/pub/Collateral/ESD7008-D.PDF", "0.55 mm"
+END_PART
+
+END.
