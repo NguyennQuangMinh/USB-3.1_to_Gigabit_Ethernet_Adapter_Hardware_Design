@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '93626_3006'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "93626-3006" (!) = "", "936263006", "Other", "538-93626-3006", "https://www.mouser.co.uk/ProductDetail/Molex/93626-3006?qs=gt1LBUVyoHkfcDt9i0XvxA%3D%3D", "", "", "Modular Connectors / Ethernet Connectors MXMag GIG 8CORE RJ45 W/ LEDs GRN/YLW RA", "https://componentsearchengine.com/Datasheets/2/93626-3006.pdf", "15.4 mm"
+END_PART
+
+END.

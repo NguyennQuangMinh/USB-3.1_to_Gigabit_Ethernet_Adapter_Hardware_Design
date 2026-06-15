@@ -1,0 +1,19 @@
+.93626-3006 :1 ;Modular Connectors / Ethernet Connectors MXMag GIG 8CORE RJ45 W/ LEDs GRN/YLW RA
+"936263006"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 15=MH1 16=MH2
+*PLB 1="VCC" 2="MD 0+" 3="MD 0-" 4="MD1+" 5="MD2+" 6="MD2-" 7="MD1-" 8="MD3+" 9="MD3-" 10="GND" 11="A GREEN" 12="K GREEN" 13="A YELLOW" 14="K YELLOW" 15="MH1" 16="MH2"
+*MXP 18
+*DFN 93626-3006
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (93626-3006)
+~!Mouser Part Number (538-93626-3006)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/93626-3006?qs=gt1LBUVyoHkfcDt9i0XvxA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/93626-3006.pdf)
+~!Height (15.4mm)
+~!3D_Model (93626-3006)
+"93626-3006"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

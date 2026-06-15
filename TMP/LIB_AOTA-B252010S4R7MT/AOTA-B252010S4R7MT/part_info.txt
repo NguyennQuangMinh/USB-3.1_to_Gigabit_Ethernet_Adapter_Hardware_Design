@@ -1,0 +1,9 @@
+Manufacturer=ABRACON
+PartNumber=AOTA-B252010S4R7MT
+PartCategory=Inductor
+PackageCategory=Inductors Chip
+PinCount=2
+Version=2.1
+Released=2023-08-13 05:08:46
+Downloaded=2026-06-15 03:46:15
+3D=Y
