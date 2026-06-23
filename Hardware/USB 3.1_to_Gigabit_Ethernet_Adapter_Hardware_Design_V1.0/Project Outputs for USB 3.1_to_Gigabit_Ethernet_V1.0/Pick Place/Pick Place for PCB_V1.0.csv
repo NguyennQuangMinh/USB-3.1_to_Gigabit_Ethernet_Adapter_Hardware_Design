@@ -1,0 +1,64 @@
+Altium Designer Pick and Place Locations
+D:\Minh\Project_Personal\USB 3.1_to_Gigabit_Ethernet_Adapter_Hardware_Design\Hardware\USB 3.1_to_Gigabit_Ethernet_Adapter_Hardware_Design_V1.0\Project Outputs for USB 3.1_to_Gigabit_Ethernet_V1.0\Pick Place\Pick Place for PCB_V1.0.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/06/26
+Time:       13:42
+Revision:   8f67d42a6a7c1048628e26f66ecc691f95ced673
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U2","LAN7800-I/Y9X 48-Pin VQFN EP Tray","TopLayer","SQFN48_7X7_Y9X_MCH-L","1440.000","680.000","180","Ethernet CTLR Single Chip 10Mbps/100Mbps/1000Mbps 1.8V/3.3V Automotive 48-Pin VQFN EP Tray"
+"X1","ABM3-25.000MHZ-D2Y-T 25Mhz","TopLayer","XTAL_ABM3_ABR-L","1435.000","260.000","0","Crystal 25MHz ±20ppm (Tol) ±30ppm (Stability) 18pF FUND 30Ohm 2-Pin Mini-CSMD T/R"
+"U1","TLV62568DBVR","TopLayer","SOT95P280X145-5N","1000.000","1040.000","180","ROHS3Compliant Adjustable Positive DUAL Switching Regulator IC -40C~125C TJ 1.5MHz 1A 1.6mm"
+"R13","12kO","TopLayer","RC0603N_YAG-L","1150.000","395.000","270","100mW Thick Film Resistors 75V ±100ppm/? ±1% 12kO 0603 Chip Resistor - Surface Mount ROHS"
+"R12","12kO","TopLayer","RC0603N_YAG-L","1215.000","395.000","270","100mW Thick Film Resistors 75V ±100ppm/? ±1% 12kO 0603 Chip Resistor - Surface Mount ROHS"
+"R11","1kO","TopLayer","RC0402N_YAG-L","1640.000","395.000","90","RES SMD 1K OHM 0.1% 1/16W 0402 / 1 kOhms ±0.1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Thin Film"
+"R10","1kO","TopLayer","RC0402N_YAG-L","1640.000","473.541","90","RES SMD 1K OHM 0.1% 1/16W 0402 / 1 kOhms ±0.1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Thin Film"
+"R9","12kO","TopLayer","RC0603N_YAG-L","1185.000","565.000","270","100mW Thick Film Resistors 75V ±100ppm/? ±1% 12kO 0603 Chip Resistor - Surface Mount ROHS"
+"R8","0O","TopLayer","RC0402N_YAG-L","1870.000","440.000","180","GENERAL PURPOSE CHIP RESISTOR Metal Glaze/thick Film, 0.0625W, 0ohm, Surface Mount, 0402"
+"R7","1kO","TopLayer","RC0402N_YAG-L","1870.000","370.000","180","RES SMD 1K OHM 0.1% 1/16W 0402 / 1 kOhms ±0.1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Thin Film"
+"R6","1kO","TopLayer","RC0402N_YAG-L","1870.000","405.000","180","RES SMD 1K OHM 0.1% 1/16W 0402 / 1 kOhms ±0.1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Thin Film"
+"R5","12kO","TopLayer","RC0603N_YAG-L","1325.000","885.000","180","100mW Thick Film Resistors 75V ±100ppm/? ±1% 12kO 0603 Chip Resistor - Surface Mount ROHS"
+"R4","0O","TopLayer","RC0402N_YAG-L","1080.038","393.000","90","GENERAL PURPOSE CHIP RESISTOR Metal Glaze/thick Film, 0.0625W, 0ohm, Surface Mount, 0402"
+"R3","0O","TopLayer","RC0402N_YAG-L","850.000","935.000","90","GENERAL PURPOSE CHIP RESISTOR Metal Glaze/thick Film, 0.0625W, 0ohm, Surface Mount, 0402"
+"R2","12kO","TopLayer","RC0603N_YAG-L","915.000","910.000","90","100mW Thick Film Resistors 75V ±100ppm/? ±1% 12kO 0603 Chip Resistor - Surface Mount ROHS"
+"R1","53.6kO","TopLayer","RESC1608X55N","1025.000","940.000","0","Fixed Resistor, Thin Film, 0.1W, 53600ohm, 75V, 0.5% +/-Tol, 50ppm/Cel, Surface Mount, 0603"
+"L2","4.7µH","TopLayer","INDC2520X100N","1680.000","905.000","90","Inductor Power Mini Molded/Shielded Wirewound 4.7uH 20% 1MHz 1.6A 0.136Ohm DCR 1008"
+"L1","4.7µH","TopLayer","INDC2520X100N","1175.000","1040.000","0","Inductor Power Mini Molded/Shielded Wirewound 4.7uH 20% 1MHz 1.6A 0.136Ohm DCR 1008"
+"J2","GSB4211311WEU","TopLayer","AMPHENOL_GSB4211311WEU","537.087","745.000","270","USB Connector, 4 Contact(s), Female, Right Angle, Solder Terminal, Receptacle"
+"J1","93626-3006","TopLayer","936263006","2245.118","715.000","90","Modular Connectors / Ethernet Connectors MXMag GIG 8CORE RJ45 W/ LEDs GRN/YLW RA"
+"D1","ESD7008MUTAG","TopLayer","ESD7008MUTAG","880.000","685.000","270","ESD Suppressor Diode TVS Bi-Dir 5V 10Vc 18-Pin UDFN EP T/R"
+"C30","12pF","TopLayer","C0402","1590.000","250.000","90","50V 12pF C0G ±1% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C29","12pF","TopLayer","C0402","1285.000","250.000","90","50V 12pF C0G ±1% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C28","1µF","TopLayer","C0402","1695.000","435.000","270","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C27","220pF","TopLayer","C0402","545.000","465.000","180","50V 220pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C26","220pF","TopLayer","C0402","1870.000","305.000","0","50V 220pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C25","100nF","TopLayer","C0402","1160.000","740.000","0","50V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C24","1µF","TopLayer","C0402","1865.000","490.000","180","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C23","100nF","TopLayer","C0402","1160.000","690.000","0","50V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C22","1µF","TopLayer","C0402","1430.000","435.000","270","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C21","1µF","TopLayer","C0402","1375.000","955.000","180","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C20","22µF","TopLayer","C0402","1585.000","900.000","90","6.3V 22uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C19","1µF","TopLayer","C0402","815.000","1035.000","90","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C18","1µF","TopLayer","C0402","880.000","520.000","180","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C17","1µF","TopLayer","C0402","1485.000","435.000","270","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C16","1µF","TopLayer","C0402","1100.000","565.000","270","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C15","1µF","TopLayer","C0402","1215.000","810.000","180","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C14","1µF","TopLayer","C0402","1585.000","435.000","270","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C13","22µF","TopLayer","C0402","1515.000","900.000","270","6.3V 22uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C12","1µF","TopLayer","C0402","1375.000","433.541","270","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C11","1µF","TopLayer","C0402","1320.000","435.000","270","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C10","1µF","TopLayer","C0402","1260.000","515.000","270","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C9","1µF","TopLayer","C0402","1460.000","900.000","90","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C8","1µF","TopLayer","C0402","1675.000","790.000","180","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C7","1µF","TopLayer","C0402","1675.000","730.000","180","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C6","1µF","TopLayer","C0402","1675.000","670.000","180","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C5","1µF","TopLayer","C0402","1675.000","610.000","180","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C4","1µF","TopLayer","C0402","1535.000","435.000","270","Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X5R, 1uF, Surface Mount, 0402"
+"C3","22µF","TopLayer","C0402","1230.000","915.000","90","6.3V 22uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C2","12pF","TopLayer","C0402","1140.000","915.000","90","50V 12pF C0G ±1% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C1","22µF","TopLayer","C0402","880.000","1035.000","90","6.3V 22uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
