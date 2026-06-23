@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 1:48:25 CH On 23/06/2026
-
-Output: Report Board Stack
-Type  : Report Board Stack
+Output: NC Drill Files
+Type  : NC Drill
 From  : PCB Document [PCB_V1.0.PcbDoc]
-   Generated File[PCB_V1.0.xls]
+   Generated File[PCB_V1.0.TXT]
+   Generated File[PCB_V1.0.LDP]
+   Generated File[PCB_V1.0.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 1:48:26 CH On 23/06/2026
+Finished Output Generation At 3:24:33 CH On 23/06/2026
